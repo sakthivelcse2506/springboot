@@ -12,6 +12,6 @@ public class DBTest {
 			System.err.println("Conneted successfully...");
 		} catch (Exception e) {
 			System.err.println(e.getMessage());
-		}
+		} 
 	}
 }
